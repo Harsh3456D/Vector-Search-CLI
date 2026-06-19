@@ -1,0 +1,5 @@
+Python is a high-level programming language known for its clear syntax and readability. It relies heavily on indentation to define code blocks instead of using curly braces or keywords, making it clean and easy for beginners to learn.
+
+Artificial Intelligence and Machine Learning applications frequently use Python due to its robust ecosystem of libraries. Tools like NumPy, Pandas, and Scikit-Learn allow developers to manipulate complex data structures and train predictive models with minimal code.
+
+Virtual environments in Python are isolated workspaces that prevent project dependencies from conflicting with each other. It is a best practice to always create a virtual environment using venv before installing external packages via pip.
